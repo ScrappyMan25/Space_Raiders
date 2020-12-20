@@ -1,5 +1,5 @@
 # Space_Raider
-Space Raider! My First PICO 8 Game! (My first game really?)
+Space Raider! My First PICO 8 Game! (My first game really?) \n
 This game took me 2 weeks of development and I learnt a lot from it. This was completed on the 31st of December '20 but even though I've done a lot since then - I'm still very proud of this! 
 
 ### Link to Game on Pico-8 Forum:
