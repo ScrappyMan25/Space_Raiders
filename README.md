@@ -34,7 +34,7 @@ Music Credits : [Gruber_music](https://www.twitter.com/gruber_music)
 * Ship can have Random speed and random health
 * The asteroid spawn rate increases over time adding an element of difficulty increase as time goes on.
 * A simple star spawning code segment for the background. 
-* Enemy ships spawn every 30 seconds and shoot you when in line of sight and move with a very basic AI.
+* Enemy ships spawn every 30 seconds and shoot you when in line of sight and move with a very basic AI and random health within a range.
 * The Player ship spawns with 3 lives.
 * PLayer can pick up special orbs that give him the following abilities:
   1.  Hearts      (40% Chance)		- Adds Aditional lives to the player.
