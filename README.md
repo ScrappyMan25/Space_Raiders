@@ -23,9 +23,9 @@ Music Credits : [Gruber_music](https://www.twitter.com/gruber_music)
 * Enemy ships spawn every 30 seconds and shoot you when in line of sight and move with a very basic AI.
 * The Player ship spawns with 3 lives.
 * PLayer can pick up special orbs that give him the following abilities:
-  i)  Hearts      (40% Chance)		- Adds Aditional lives to the player.
-  ii) Blue        (40% Chance)		- Shield: Makes the player Invulnerable to everything for a certain amount of time.
-  iii)Red/Yellow  (20% Chance)		- Upgrades the players bullets to PINK to inflict more damage for a certain amount of time.
+  * i)  Hearts      (40% Chance)		- Adds Aditional lives to the player.
+  * ii) Blue        (40% Chance)		- Shield: Makes the player Invulnerable to everything for a certain amount of time.
+  * iii)Red/Yellow  (20% Chance)		- Upgrades the players bullets to PINK to inflict more damage for a certain amount of time.
 
 
 #### OBJECTIVE OF THE GAME
