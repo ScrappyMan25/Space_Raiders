@@ -1,5 +1,5 @@
 # Space_Raiders
-My first game made on Pico-8 Game Engine.
+Space Raider! My First PICO 8 Game! (My first game really?)
 
 ## Link to Game on Pico-8 Forum:
-[Space Raider! My First PICO 8 Game! (My first game really?)] (https://www.lexaloffle.com/bbs/?tid=36628)
+[Space Raider!] (https://www.lexaloffle.com/bbs/?tid=36628)
