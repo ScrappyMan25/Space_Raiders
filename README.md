@@ -30,7 +30,8 @@ Music Credits : [Gruber_music](https://www.twitter.com/gruber_music)
 * Asteroids and Enemy ships spawn during the game
 * Asteroid takes 3 Hits to Kill
 * Ship can have Random speed and random health
-* The asteroid spawn rate increases over time
+* The asteroid spawn rate increases over time adding an element of difficulty increase as time goes on.
+* A simple star spawning code segment for the background. 
 * Enemy ships spawn every 30 seconds and shoot you when in line of sight and move with a very basic AI.
 * The Player ship spawns with 3 lives.
 * PLayer can pick up special orbs that give him the following abilities:
