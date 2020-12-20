@@ -1,6 +1,5 @@
 # Space_Raider
 Space Raider! My First PICO 8 Game! (My first game really?) \n
-This game took me 2 weeks of development and I learnt a lot from it. This was completed on the 31st of December '20 but even though I've done a lot since then - I'm still very proud of this! 
 
 ### Link to Game on Pico-8 Forum:
 [Space Raider!](https://www.lexaloffle.com/bbs/?tid=36628)
@@ -15,6 +14,8 @@ Starting on a basic engine like pico-8 helped me solidify the understanding of n
 key fundamentals of game design and development that will be crucial in this
 industry. The simple nature of pico-8 enabled me to think in a more grounded and
 elementary sense.
+
+This game took me 2 weeks of development and I learnt a lot from it. This was completed on the 31st of December '20 but even though I've done a lot since then - I'm still very proud of this! 
 
 ### About the Game:
 
