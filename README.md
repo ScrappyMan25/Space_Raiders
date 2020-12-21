@@ -30,7 +30,7 @@ Music Credits : [Gruber_music](https://www.twitter.com/gruber_music)
 
 #### Features:
 * Asteroids and Enemy ships spawn during the game
-* Asteroid takes 3 Hits to Kill
+* Asteroid takes 3 Hits to Kill - Random Speed & Spawn Location
 * Ship can have Random speed and random health
 * The asteroid spawn rate increases over time adding an element of difficulty increase as time goes on.
 * A simple star spawning code segment for the background. 
